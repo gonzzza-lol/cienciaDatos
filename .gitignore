@@ -36,3 +36,7 @@ evaluaciones/rubricas/*
 
 # Configuracion local del editor
 .vscode/
+
+lecturas/
+presentaciones/
+programa/
