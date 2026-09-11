@@ -16,4 +16,5 @@ dependencies = [
     "python-pptx>=1.0",
     "umap-learn>=0.5",
     "certifi>=2024.0",
+    "nbdev>=3.3.18",
 ]
